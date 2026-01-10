@@ -223,4 +223,12 @@ Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 To https://github.com/das-subho06/OOPsLab_IEM.git
  * [new branch]      main -> main
 branch 'main' set up to track 'origin/main'.
-[subhashree@subho-laptop DAY_1]$
+[subhashree@subho-laptop DAY_1]$ git clone "https://github.com/das-subho06/OOPsLab_IEM.git"
+Cloning into 'OOPsLab_IEM'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 6 (delta 0), reused 6 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (6/6), done.
+[subhashree@subho-laptop DAY_1]$ 
+
